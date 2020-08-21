@@ -1,3 +1,9 @@
+'''
+Simple game where the goal is to count up to 100, replacing each multiple of 3
+with "fizz" and each multiple of 5 with "buzz." This version is designed to be
+more customizable with each dividend being an instance of FizzNum.
+'''
+
 class FizzNum:
     def __init__(self, num, string):
         nums.append(self)
